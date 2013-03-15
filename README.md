@@ -6,3 +6,6 @@ a [FuelPHP] package that enables you to provide eBook catalogs
 This [FuelPHP] package contains tools to provide [OPDS] or HTML catalogs for eBooks.
 
 I try to adhere to the OPDS 1.1 specification, if I don'T please open up an issue ;P
+
+[FuelPHP]: http://www.fuelphp.com/ "FuelPHP - Framework"
+[OPDS]: http://opds-spec.org/ "OPDS Catalog specification"
